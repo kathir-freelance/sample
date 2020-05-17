@@ -21,6 +21,6 @@ public class AppTest
     {
 	A ob;
 	int res=new A().get();
-	assertTrue( res==98);
+	assertTrue( res==89);
     }
 }

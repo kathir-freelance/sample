@@ -19,7 +19,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-	public A ob;
+	A ob;
 	int res=new A().get();
 	assertTrue( res==98);
     }

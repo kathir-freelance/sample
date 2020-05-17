@@ -17,7 +17,7 @@ public class AppTest
     }
 
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithTrue1()
     {
 	A ob;
 	int res=new A().get();

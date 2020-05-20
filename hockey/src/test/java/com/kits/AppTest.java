@@ -23,4 +23,9 @@ public class AppTest
 	int res=new A().get();
 	assertTrue( res==89);
     }
+	@Test
+    public void shouldAnswerWithTrue2()
+    {
+	assertTrue("test done");
+    }
 }

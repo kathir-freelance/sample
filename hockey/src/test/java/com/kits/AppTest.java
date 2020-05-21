@@ -26,6 +26,6 @@ public class AppTest
 	@Test
     public void shouldAnswerWithTrue2()
     {
-	assertTrue("test done");
+	assertTrue(true);
     }
 }
